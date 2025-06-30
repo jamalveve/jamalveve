@@ -26,9 +26,6 @@ I’m #**Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end s
 * Write **clean, reusable code** in JavaScript (React) and Java (Spring Boot)
 
 ---
-
-<h2>🧰 Tech Stack & Tools <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="30"/></h2>
-<h2>🧰 Tech Stack & Tools <img src="https://media.giphy.com/media/IeRdg7ek5jA8DdH6bD/giphy.gif" width="28"/></h2>
 <h2>🧰 Tech Stack & Tools <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"/></h2>
 
 
