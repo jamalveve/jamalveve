@@ -1,11 +1,12 @@
-# **👋 Hi there**
-
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>## **Hello Developers**
+![Profile Views](https://komarev.com/ghpvc/?username=jamalveve&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/jamalveve?label=Follow&style=social)](https://github.com/jamalveve?tab=followers)
 
 I’m #**Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end software development experience, specializing in **Java**, **Spring Boot**, **JavaScript**, **SQL**, and modern web technologies. I love turning complex problems into scalable, elegant solutions.
 
 ---
 
-## 👨‍💻 About Me
+<h2> About Me <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=58A6FF&center=false&vCenter=false&width=250&lines=Full+Stack+Engineer;AI+Driven+Developer" alt="Typing" /></h2>
 
 **Eat. Sleep. Code. Repeat.** 🔁
 
