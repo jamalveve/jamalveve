@@ -86,9 +86,22 @@ I’m #**Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end s
 ---
 
 
-## 🌐 Connect With Me
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> **Let's Connect**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&width=435&lines=Let's+connect+and+collaborate!;Always+learning+something+new!;Full-Stack+Engineer+%7C+AI+Explorer" />
 
 Interested? I’d love to connect. Check out my work on GitHub: [github.com/jamalveve](https://github.com/jamalveve) and feel free to reach out anytime!
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Let's+Connect+and+Code!;Full-Stack+Engineer+%7C+AI+Explorer;Drop+a+message+anytime+🚀" />
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jamal-veve/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/jamalveve)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourhandle)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jamal-veve/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/jamalveve)
