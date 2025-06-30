@@ -1,13 +1,19 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>## **Hello Developers**
+<p align="center">
+    <img alt="Cover" src="cover-image.jpg"/>
+</p>
+
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>**Hello Developers**
 ![Profile Views](https://komarev.com/ghpvc/?username=jamalveve&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/jamalveve?label=Follow&style=social)](https://github.com/jamalveve?tab=followers)
 
-I’m #**Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end software development experience, specializing in **Java**, **Spring Boot**, **JavaScript**, **SQL**, and modern web technologies. I love turning complex problems into scalable, elegant solutions.
+I’m **Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end software development experience, specializing in **Java**, **Spring Boot**, **JavaScript**, **SQL**, and modern web technologies. I love turning complex problems into scalable, elegant solutions.
 
 ---
 
 <h2> About Me <img src="https://media.giphy.com/media/3o7TKsQ7XzkgGOKUis/giphy.gif" width="25"/></h2>
-**Eat. Sleep. Code. Repeat.** 🔁
+<img align="right" alt="Eat Sleep Code Repeat" height="25%" src="eat-sleep-code-repeat.jpg" width="25%"/>
+
 
 🎓 Graduated from [Info Institute of Engineering](https://infoengg.com/)  
 🔍 Passionate about **problem solving** and clean code  
