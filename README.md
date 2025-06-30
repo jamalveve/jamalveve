@@ -9,7 +9,7 @@ I’m #**Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end s
 
 **Eat. Sleep. Code. Repeat.** 🔁
 
-🎓 Graduated from [Info Institute of Engineer](https://infoengg.com/)  
+🎓 Graduated from [Info Institute of Engineering](https://infoengg.com/)  
 🔍 Passionate about **problem solving** and clean code  
 🔭 Currently working as a **Full-Stack Developer**  
 🌱 Obsessed with **Data Structures & Algorithms**  
@@ -38,7 +38,7 @@ I’m #**Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end s
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -50,6 +50,9 @@ I’m #**Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end s
 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white)
+
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=spring&logoColor=white)
+
 ---
 
 ### **🎯 My Focus Areas**
@@ -67,7 +70,7 @@ I’m #**Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end s
 
 ### **🌱 What I’m Learning**
 
-* Mastering **SQL joins, subqueries, and CTEs** to enrich data for AI models
+* Mastering ** Data Structures,SQL joins, subqueries, and CTEs** to enrich data for AI models
 * Experimenting with **end-to-end AI pipelines**: EDA → SQL → feature engineering → model build → deployment
 * Exploring **prompt engineering + AI copilots** to streamline software development and debug faster
 
