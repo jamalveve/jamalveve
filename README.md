@@ -1,11 +1,11 @@
 # **👋 Hi there**
 
 
-I’m **Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end software development experience, specializing in **Java**, **Spring Boot**, **JavaScript**, **SQL**, and modern web technologies. I love turning complex problems into scalable, elegant solutions.
+I’m #**Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end software development experience, specializing in **Java**, **Spring Boot**, **JavaScript**, **SQL**, and modern web technologies. I love turning complex problems into scalable, elegant solutions.
 
 ---
 
-🛠 What I Do
+# **🛠 What I Do**
 
 * Build and deploy **scalable web applications**, from REST APIs to rich front-end experiences
 * Integrate robust **back-end logic with efficient database design** (SQL, MySQL)
@@ -14,7 +14,7 @@ I’m **Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end so
 
 ---
 
-### 🎯 My Focus Areas
+### **🎯 My Focus Areas**
 
 * **AI-Enhanced Development & Automation**
   Continuously integrating AI tools (ChatGPT, Gemini, LangChain) into workflows—for smarter development, code generation, data pipelines, and feature engineering
@@ -27,7 +27,7 @@ I’m **Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end so
 
 ---
 
-### 🌱 What I’m Learning
+### **🌱 What I’m Learning**
 
 * Mastering **SQL joins, subqueries, and CTEs** to enrich data for AI models
 * Experimenting with **end-to-end AI pipelines**: EDA → SQL → feature engineering → model build → deployment
@@ -35,7 +35,7 @@ I’m **Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end so
 
 ---
 
-### 🚀 Why I’m Here
+### **🚀 Why I’m Here**
 
 I believe the future lies at the intersection of **humans + AI**, where intelligent tools amplify our creativity and efficiency. I’m on a mission to **build web apps and data workflows enhanced by AI**, and share that journey openly so others can grow alongside me.
 
