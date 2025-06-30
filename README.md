@@ -6,8 +6,7 @@ I’m #**Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end s
 
 ---
 
-<h2> About Me <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=58A6FF&center=false&vCenter=false&width=250&lines=Full+Stack+Engineer;AI+Driven+Developer" alt="Typing" /></h2>
-
+<h2> About Me <img src="https://media.giphy.com/media/3o7TKsQ7XzkgGOKUis/giphy.gif" width="25"/></h2>
 **Eat. Sleep. Code. Repeat.** 🔁
 
 🎓 Graduated from [Info Institute of Engineering](https://infoengg.com/)  
