@@ -10,8 +10,12 @@
 I’m **Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end software development experience, specializing in **Java**, **Spring Boot**, **JavaScript**, **SQL**, and modern web technologies. I love turning complex problems into scalable, elegant solutions.
 
 ---
+<h2>
+  About Me
+  <img src="about-me.gif" height="35px" width="75px" style="vertical-align: middle; margin-left: 10px;">
+</h2>
 
-<h2> About Me <img src="https://media.giphy.com/media/3o7TKsQ7XzkgGOKUis/giphy.gif" width="25"/></h2>
+
 <img align="right" alt="Eat Sleep Code Repeat" height="25%" src="eat-sleep-code-repeat.jpg" width="25%"/>
 
 
@@ -23,8 +27,11 @@ I’m **Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end so
 💬 Let’s talk: **Java | Spring Boot | SQL | React | AI Workflows**
 
 ---
+<h2>
+  What I do?
+  <img src="what-I-Doo.gif" height="50px" width="55px" style="vertical-align: middle; margin-left: 10px;">
+</h2>
 
-# **🛠 What I Do**
 
 * Build and deploy **scalable web applications**, from REST APIs to rich front-end experiences
 * Integrate robust **back-end logic with efficient database design** (SQL, MySQL)
@@ -83,7 +90,10 @@ I’m **Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end so
 
 ---
 
-## 📊 GitHub Stats
+<h2>
+<img src="graph-stats.gif" height="50px" width="55px" style="vertical-align: middle; margin-left: 10px;">
+ GitHub Stats
+</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jamalveve&show_icons=true&theme=radical" alt="Jamal's GitHub Stats" />
