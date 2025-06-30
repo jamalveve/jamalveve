@@ -5,6 +5,19 @@ I’m #**Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end s
 
 ---
 
+## 👨‍💻 About Me
+
+**Eat. Sleep. Code. Repeat.** 🔁
+
+🎓 Graduated from [Info Institute of Engineer](https://infoengg.com/)  
+🔍 Passionate about **problem solving** and clean code  
+🔭 Currently working as a **Full-Stack Developer**  
+🌱 Obsessed with **Data Structures & Algorithms**  
+🤝 Open to **freelancing, open-source contributions**, and collab projects  
+💬 Let’s talk: **Java | Spring Boot | SQL | React | AI Workflows**
+
+---
+
 # **🛠 What I Do**
 
 * Build and deploy **scalable web applications**, from REST APIs to rich front-end experiences
@@ -12,6 +25,31 @@ I’m #**Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end s
 * Own features end-to-end—from design, coding, testing, to deployment and performance tuning
 * Write **clean, reusable code** in JavaScript (React) and Java (Spring Boot)
 
+---
+## 🛠️ Tech Stack & Tools
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-3DDC84?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white)
 ---
 
 ### **🎯 My Focus Areas**
@@ -35,19 +73,28 @@ I’m #**Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end s
 
 ---
 
-### **🚀 Why I’m Here**
+## 📊 GitHub Stats
 
-I believe the future lies at the intersection of **humans + AI**, where intelligent tools amplify our creativity and efficiency. I’m on a mission to **build web apps and data workflows enhanced by AI**, and share that journey openly so others can grow alongside me.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamalveve&show_icons=true&theme=radical" alt="Jamal's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamalveve&theme=radical" alt="Jamal's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalveve&layout=compact&theme=radical" alt="Jamal's Top Languages" />
+</p>
+---
+
+
+## 🌐 Connect With Me
+
+Interested? I’d love to connect. Check out my work on GitHub: [github.com/jamalveve](https://github.com/jamalveve) and feel free to reach out anytime!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jamal-veve/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/jamalveve)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamalveve01@gmail.com)
 
 ---
 
-### Let’s Connect
+⭐️ *“Code is poetry. Build things that matter.”*
 
-* ✅ Full-Stack development
-* ✅ AI + SQL data strategies
-* ✅ Prompt engineering & smart tooling
-
-Interested? I’d love to connect. Check out my work on GitHub: [github.com/mrkjofficial](https://github.com/jamalveve) and feel free to reach out anytime!
 
 ---
 
