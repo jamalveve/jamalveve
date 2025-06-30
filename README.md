@@ -27,7 +27,7 @@ I’m #**Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end s
 
 ---
 
-<h2>🧰 Tech Stack & Tools <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35"/></h2>
+<h2>🧰 Tech Stack & Tools <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="30"/></h2>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
