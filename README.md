@@ -1,4 +1,5 @@
-👋 Hi there
+# **👋 Hi there**
+
 
 I’m **Jamal Veve**, a **Full-Stack Engineer** with 2+ years of end-to-end software development experience, specializing in **Java**, **Spring Boot**, **JavaScript**, **SQL**, and modern web technologies. I love turning complex problems into scalable, elegant solutions.
 
